@@ -1,0 +1,31 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Italiano</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_phrases">Wyrażenia</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors">Kolory</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">Liczby</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_family">Rodzina</string>
+
+    <!-- Category name for the vocabulary words for food [CHAR LIMIT=20] -->
+    <string name="category_food">Jedzenie</string>
+
+    <!-- Category name for the vocabulary words for calendar [CHAR LIMIT=20] -->
+    <string name="category_calendar">Kalendarz</string>
+
+    <!-- Category name for the vocabulary words for weather [CHAR LIMIT=20] -->
+    <string name="category_weather">Pogoda</string>
+
+    <!-- Category name for the vocabulary words for some words [CHAR LIMIT=20] -->
+    <string name="category_words">Słówka</string>
+
+    <!-- Category name for the vocabulary words for house words [CHAR LIMIT=20] -->
+    <string name="category_house">Dom</string>
+</resources>
